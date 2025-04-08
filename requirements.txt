@@ -1,0 +1,5 @@
+moviepy
+gtts
+requests
+python-telegram-bot
+google-api-python-client
